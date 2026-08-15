@@ -1,1 +1,17 @@
-
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "Z5VKYV82MD.com.coleparkin.IronTrace"
+        ],
+        "components": [
+          {
+            "/": "/irontrace-oauth/plaid/*",
+            "comment": "IRON//TRACE Plaid OAuth return"
+          }
+        ]
+      }
+    ]
+  }
+}
